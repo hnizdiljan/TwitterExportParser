@@ -1,0 +1,2 @@
+undetected-chromedriver>=3.5.0
+setuptools>=80.0.0
